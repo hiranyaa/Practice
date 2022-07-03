@@ -15,7 +15,6 @@ public class Fibo {
 			g=h;
 			h=c;
 		}
-
 	}
 
 }
